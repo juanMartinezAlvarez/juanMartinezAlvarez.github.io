@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Juan P. Martinez",
+    "label": "Junior Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "jmartinez@fing.edu.uy",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://juanMartinezAlvarez.github.io",
+    "summary": "A junior scientist and PhD student interested in the fields of physics of semiconductors and electronics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Lucerna 6121",
+      "postalCode": "11500",
+      "city": "Montevideo",
+      "countryCode": "Uy",
+      "region": "Montevideo"
     },
     "profiles": [
       {
