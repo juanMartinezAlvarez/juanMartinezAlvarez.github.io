@@ -4,7 +4,7 @@
     "label": "Junior Scientist",
     "image": "",
     "email": "jmartinez@fing.edu.uy",
-    "phone": "(912) 123-4567",
+    "phone": "(+598) 096355344",
     "url": "https://juanMartinezAlvarez.github.io",
     "summary": "A junior scientist and PhD student interested in the fields of physics of semiconductors and electronics.",
     "location": {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Faculty of Engineering, University of the Republic",
+      "position": "Teaching Assistant",
+      "url": "https://www.fing.edu.uy/es/instituto-de-f%C3%ADsica/institucional/integrantes",
+      "startDate": "2021-07-01",
+      "endDate": "2024-07-01",
+      "summary": "Teaching introductory courses on experimental physics and introduction to mechanics",
+      "highlights": ["Classical Physics"]
     }
   ],
   "volunteer": [
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of the Republic, Montevideo, Uruguay",
+      "location": "Montevideo, Uruguay",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Physics",
+      "studyType": "MSc",
+      "startDate": "2021-07-01",
+      "endDate": "2024-05-30",
+      "score": "11",
+      "courses": ["Solid State Physics"]
     }
   ],
   "awards": [
