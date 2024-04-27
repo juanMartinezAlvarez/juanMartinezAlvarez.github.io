@@ -43,18 +43,9 @@
       "startDate": "2021-07-01",
       "endDate": "2024-05-30",
       "score": "11",
-      "courses": ["Solid State Physics","Optics","Semiconductor Physics"]
+      "courses": ["Solid State Physics"]
     }
-    {
-      "institution": "University of Montevideo, Montevideo, Uruguay",
-      "location": "Montevideo, Uruguay",
-      "area": "Mechanical Engineering",
-      "studyType": "BSc",
-      "startDate": "2015-03-02",
-      "endDate": "2020-03-13",
-      "score": "9",
-      "courses": ["Mechanical Engineering", "Minor in Electrical Engineering"]
-    }
+ 
   ],
   "awards": [
     {
