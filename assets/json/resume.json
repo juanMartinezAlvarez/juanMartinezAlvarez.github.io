@@ -56,15 +56,17 @@
     ]
   }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "institution": "University of the Republic",
+    "url": "",
+    "area": "Physics",
+    "studyType": "Master's",
+    "startDate": "2021-07-023",
+    "endDate": "2024-05-30",
+    "score": "11",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Solid State Physics",
+      "Optics"
+      "Semiconductor Physics"
     ]
   }],
   "awards": [{
