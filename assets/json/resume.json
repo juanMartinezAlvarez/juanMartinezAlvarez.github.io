@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Juan P. Martinez",
+    "label": "Junior Scientist",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "jmartinez@fing.edu.uy",
+    "phone": "(598) 096355344",
+    "url": "https://juanmartinezalvarez.github.io/",
+    "summary": "Junior Scientist and PhD student interested in the fields of semiconductor physics and electronics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Lucerna 6121",
+      "postalCode": "11500",
+      "city": "Montevideo",
+      "countryCode": "UY",
+      "region": "Montevideo"
     },
     "profiles": [{
       "network": "Twitter",
