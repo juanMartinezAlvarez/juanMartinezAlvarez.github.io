@@ -33,6 +33,15 @@
       "highlights": ["Classical Physics"]
     },
     {
+      "name": "Catalan Institute of Nanoscience and Nanotechnology",
+      "position": "Visiting Master student",
+      "url": "https://icn2.cat/en/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-04-15",
+      "summary": "Research on the gas sensing properties of 2D TMDs.",
+      "highlights": ["Nanofabrication", "Gas sensing", "Electrical measurements"]
+    },
+    {
       "name": "CIEMSA",
       "position": "Technology development Assistant",
       "url": "https://ciemsa.com.uy/",
@@ -115,17 +124,19 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Matlab",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+        "Fitting",
+        "Modelling",
+        "Remote instrument control",
+        ]
+    },
+     {
+      "name": "LaTeX",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
     }
   ],
   "languages": [
@@ -150,12 +161,21 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Solid State Physics",
+        "Semiconductor Physics",
+        "Optics",
+        "Optical Properties of Materials",
+      ]
+    },
+    {
+      "name": "Electronics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Analog design",
+        "Digital design",
+        "Computer logic",
+        "Device fabrication",
+        "Device testing",
       ]
     }
   ],
@@ -174,16 +194,11 @@
       "name": "Professor Claudio Ruibal",
       "icon": "fa-solid fa-laptop",
       "reference": "cruibal@um.edu.uy, Dean of the Faculty of Engineering of the UM during my studies and academic advisor."
+    },
+     {
+      "name": "Professor Paulo Valente",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "pvalente@fing.edu.uy, Master thesis co-supervisor."
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
