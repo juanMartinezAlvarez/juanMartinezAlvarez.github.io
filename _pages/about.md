@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Juan, an industrial engineer originally from Uruguay, with a specialization in electrical engineering. While working in industry, I discovered my passion for research, leading me to pursue a master’s degree in physics.  During this journey, I delved studied the optical properties of a wide variety of nanostructured materials, ranging from semiconductor nanorods to insect wings. Currently, I'm on the brink of defending my dissertation and eagerly anticipating a new venture in semiconductor physics and circuit design.
+Hello, I'm Juan, an industrial engineer originally from Uruguay, with a specialization in electrical engineering. While working in industry, I discovered my passion for research, leading me to pursue a master’s degree in physics.  During this journey, I delved into the optical properties of a wide variety of nanostructured materials, ranging from semiconductor nanorods to insect wings. Currently, I'm on the brink of defending my dissertation and eagerly anticipating a new venture in semiconductor physics and circuit design.
 
 My interests lie in Solid State Physics, particularly electric and thermal transport, optical properties of materials and optics. I am also passionate about electronics and circuit design. If these areas resonate with you or if you have any questions, feel free to reach out.
 
