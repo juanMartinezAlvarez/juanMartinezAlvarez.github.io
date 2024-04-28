@@ -83,10 +83,22 @@
         ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "ANII Master studies in Uruguay Fellowship",
+    "date": "2023-03-01",
+    "awarder": "Agencia Nacional de Investigación e Innovación",
+    "summary": "Monthly stipend to complete a research focused Master's degree."
+  },
+  {
+    "title": "ANII Foreign Internships Fellowship",
+    "date": "2023-07-01",
+    "awarder": "Agencia Nacional de Investigación e Innovación",
+    "summary": "Monthly stipend to do a 9 month internship at the Catalan Institute of Nanoscience and Nanotechnology in Barcelona, Spain."
+  },
+  {
+    "title": "CSIC Mobility and Academic Exchanges",
+    "date": "2023-05-01",
+    "awarder": "AComisión Sectorial de Investigación Científica",
+    "summary": "Additional monthly stipend to do a 9 month internship at the Catalan Institute of Nanoscience and Nanotechnology in Barcelona, Spain."
   }],
   "certificates": [{
     "name": "Certificate",
