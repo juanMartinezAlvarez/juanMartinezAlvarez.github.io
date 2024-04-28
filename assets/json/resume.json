@@ -186,7 +186,22 @@
     "name": "Professor Javier Pereyra",
     "icon": "fa-solid fa-laptop",
     "reference": "jpereyra@fing.edu.uy, Master thesis supervisor and academic advisor."
-  }],
+  },
+  {
+    "name": "Professor Ricardo Marotti",
+    "icon": "fa-solid fa-laptop",
+    "reference": "khamul@fing.edu.uy, Solid State Physics Group of the Faculty of Engineering, University of the Republic, where I did my master's research."
+  },
+  {
+      "name": "Professor Claudio Ruibal",
+      "icon": "fa-solid fa-laptop",
+      "reference": "cruibal@um.edu.uy, Dean of the Faculty of Engineering of the UM during my studies and academic advisor."
+    },
+     {
+      "name": "Professor Paulo Valente",
+      "icon": "fa-solid fa-laptop",
+      "reference": "pvalente@fing.edu.uy, Master thesis co-supervisor."
+    }],
   "projects": [{
     "name": "Project",
     "startDate": "2019-01-01",
