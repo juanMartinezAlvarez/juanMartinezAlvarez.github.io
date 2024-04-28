@@ -15,20 +15,20 @@
       "region": "Montevideo"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": "LinkedIn",
+      "username": "Juan Pedro Martinez Alvarez",
+      "url": "https://www.linkedin.com/in/juanpedromartinezalvarez?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD3DtsFxUROu2%2BX066%2BFmow%3D%3D"
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "Faculty of Engineering, University of the Republic",
+    "position": "Teaching Assistant",
+    "url": "https://www.fing.edu.uy/es/instituto-de-f%C3%ADsica/institucional/integrantes",
+    "startDate": "2021-07-01",
+    "endDate": "2024-07-01",
+    "summary": "Teaching introductory courses on experimental physics and classical mechanics",
     "highlights": [
-      "Started the company"
+    
     ]
   }],
   "volunteer": [{
