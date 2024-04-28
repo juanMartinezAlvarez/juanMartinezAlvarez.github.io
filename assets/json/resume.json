@@ -67,7 +67,7 @@
    
 
   ],
-  "fellowships": [
+  "awards": [
     {
       "title": "ANII Master's studies in Uruguay",
       "date": "2023-03-01",
@@ -161,14 +161,19 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Javier Pereyra",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "jpereyra@fing.edu.uy, Master thesis supervisor and academic advisor."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Ricardo Marotti",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "khamul@fing.edu.uy, Solid State Physics Group of the Faculty of Engineering, University of the Republic, where I did my master's research"
+    },
+     {
+      "name": "Professor Claudio Ruibal",
+      "icon": "fa-solid fa-laptop",
+      "reference": "cruibal@um.edu.uy, Dean of the Faculty of Engineering of the UM during my studies and academic advisor."
     }
   ],
   "projects": [
