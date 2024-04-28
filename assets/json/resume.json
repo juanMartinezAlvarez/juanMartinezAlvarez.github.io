@@ -57,14 +57,15 @@
   }],
   "education": [{
     "institution": "University of the Republic",
+    "url": "https://www.fing.edu.uy/",
     "area": "Physics",
-    "studyType": "Master's",
-    "startDate": "2021-07-023",
+    "studyType": "Master's degree",
+    "startDate": "2021-07-23",
     "endDate": "2024-05-30",
     "score": "11",
     "courses": [
       "Solid State Physics",
-      "Optics"
+      "Optics",
       "Semiconductor Physics"
     ]
   }],
