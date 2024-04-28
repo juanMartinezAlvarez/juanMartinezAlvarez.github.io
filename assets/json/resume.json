@@ -183,8 +183,9 @@
           ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "Professor Javier Pereyra",
+    "icon": "fa-solid fa-laptop",
+    "reference": "jpereyra@fing.edu.uy, Master thesis supervisor and academic advisor."
   }],
   "projects": [{
     "name": "Project",
