@@ -123,18 +123,6 @@
     ]
   },
   {
-    "name": "LaTeX",
-    "level": "Advanced",
-    "keywords": [
-         ]
-  },
-  {
-    "name": "COMSOL",
-    "level": "Basic proficiency",
-    "keywords": [
-         ]
-  },
-  {
     "name": "Nanofabrication",
     "level": "Experienced",
     "keywords": [
@@ -144,6 +132,18 @@
       "Wire bonding",
       "2D material exfoliation"
          ]
+  },
+  {
+    "name": "COMSOL",
+    "level": "Basic proficiency",
+    "keywords": [
+         ]
+  },
+  {
+    "name": "LaTeX",
+    "level": "Advanced",
+    "keywords": [
+               ]
   },
   {
     "name": "Microscopy",
