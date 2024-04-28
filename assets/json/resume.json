@@ -133,6 +133,25 @@
     "level": "Basic proficiency",
     "keywords": [
          ]
+  },
+  {
+    "name": "Nanofabrication",
+    "level": "Experienced",
+    "keywords": [
+      "Lithography",
+      "Etching",
+      "Metal evaporation"
+      "Wire bonding"
+      "2D material exfoliation"
+         ]
+  },
+  {
+    "name": "Microscopy",
+    "level": "Experienced",
+    "keywords": [
+      "SEM",
+      "Optical",
+               ]
   }],
   "languages": [{
     "language": "English",
@@ -147,11 +166,21 @@
     "fluency": "Basic proficiency, A1"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Condensed matter physics",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Semiconductor physics",
+      "Optical properties"
+      "Thermal transport"
+      "Ferroelectricity"
     ]
+  },
+  {
+    "name": "Electronics",
+    "keywords": [
+      "Analog circuits",
+      "Digital design"
+      "Neuromorphic computing"
+          ]
   }],
   "references": [{
     "name": "Jane Doe",
