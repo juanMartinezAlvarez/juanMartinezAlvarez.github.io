@@ -9,17 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>401</p>
+    <p> Av. Julio Herrera y Reissig 565</p>
+    <p>Montevideo, Uruguay</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I'm Juan, an industrial engineer originally from Uruguay, with a specialization in electrical engineering. While working in industry, I discovered my passion for research, leading me to pursue a master’s degree in physics.  During this journey, I delved studied the optical properties of a wide variety of nanostructured materials, ranging from semiconductor nanorods to insect wings. Currently, I'm on the brink of defending my dissertation and eagerly anticipating a new venture in semiconductor physics and circuit design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interests lie in Solid State Physics, particularly electric and thermal transport, optical properties of materials and optics. I am also passionate about electronics and circuit design. If these areas resonate with you or if you have any questions, feel free to reach out.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my leisure time, I indulge in reading, painting, and music. I also enjoy outdoor activities like hiking and playing football (soccer for visitors from the USA), a true Latin American pastime. I'm constantly on the lookout for new music; there's nothing quite like the thrill of discovering a new favorite. So, even if our research paths don't align, I'd love to hear your recommendations.
