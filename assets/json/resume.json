@@ -31,6 +31,15 @@
       "endDate": "2024-07-01",
       "summary": "Teaching introductory courses on experimental physics and introduction to mechanics",
       "highlights": ["Classical Physics"]
+    },
+    {
+      "name": "CIEMSA",
+      "position": "Technology development Assistant",
+      "url": "https://ciemsa.com.uy/",
+      "startDate": "2020-06-01",
+      "endDate": "2021-08-01",
+      "summary": "Development of road technology infrastructure",
+      "highlights": []
     }
   ],
  
@@ -58,57 +67,27 @@
    
 
   ],
-  "awards": [
+  "fellowships": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "ANII Master's studies in Uruguay",
+      "date": "2023-03-01",
+      "awarder": "Agencia Nacional de Investigación e Innovación",
+      "url": "https://www.anii.org.uy/",
+      "summary": "Monthly stipend to complete a research Master's degree."
+    },
+     {
+      "title": "ANII Foreign Internships",
+      "date": "2023-07-01",
+      "awarder": "Agencia Nacional de Investigación e Innovación",
+      "url": "https://www.anii.org.uy/",
+      "summary": "Monthly stipend to do a 9 month internship at the Catalan Institute of Nanoscience and Nanotechnology in Barcelona, Spain."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "CSIC Mobility and Academic Exchanges",
+      "date": "2023-05-01",
+      "awarder": "Comisión Sectorial de Investigación Científica",
+      "url": "https://www.anii.org.uy/",
+      "summary": "Additional monthly stipend to do a 9 month internship at the Catalan Institute of Nanoscience and Nanotechnology in Barcelona, Spain."
     }
   ],
   "publications": [
@@ -151,13 +130,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent, C2",
+      "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Basic, A1",
       "icon": ""
     }
   ],
