@@ -97,14 +97,14 @@
   {
     "title": "CSIC Mobility and Academic Exchanges",
     "date": "2023-05-01",
-    "awarder": "AComisión Sectorial de Investigación Científica",
+    "awarder": "Comisión Sectorial de Investigación Científica",
     "summary": "Additional monthly stipend to do a 9 month internship at the Catalan Institute of Nanoscience and Nanotechnology in Barcelona, Spain."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+  },
+  {
+    "title": "SUSI Fellowship",
+    "date": "2019-01-04",
+    "awarder": "US State Department",
+    "summary": "6 week exchange programme in the United States, with a focus on social entrepreneurship"
   }],
   "publications": [{
     "name": "Publication",
