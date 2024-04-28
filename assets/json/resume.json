@@ -30,6 +30,19 @@
     "highlights": [
     
     ]
+  },
+  {
+    "name": "Catalan Institute of Nanoscience and Nanotechnology",
+    "position": "Visiting Master student",
+    "url": "https://icn2.cat/en/",
+    "startDate": "2023-08-01",
+    "endDate": "2024-04-15",
+    "summary": "Research on the gas sensing properties of 2D TMDs.",
+    "highlights": [
+      "Nanofabrication",
+      "Gas sensing",
+      "Electrical measurements"
+    ]
   }],
   "volunteer": [{
     "organization": "Organization",
