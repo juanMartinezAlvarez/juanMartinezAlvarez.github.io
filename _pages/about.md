@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.fing.edu.uy/es/if'>Institute of Physics, Udelar</a>. MSc student
 
 profile:
   align: right
