@@ -8,7 +8,7 @@ giscus_comments: true
 categories: papers-post-optics
 thumbnail: assets/img/MRS_crossedPol/Pic1_soap.jpg
 
-bibliography: references1.bib
+bibliography: 2023-10-15-A simple way to determine the thickness of thin samples.bib
 ---
 
 
