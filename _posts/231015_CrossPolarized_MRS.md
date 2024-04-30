@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with images
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
+title: A simple way to determine the thickness of thin samples
+date: 2023-10-15 21:01:00
+description: We can exploit optical effects to find the thickness of very thin, transparent samples by simple methods
+tags: optics
+categories: papers-post-optics
 thumbnail: assets/img/9.jpg
 ---
 
@@ -22,8 +22,8 @@ This is an example post with image galleries.
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
 
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
+The beautiful iridescent colors in soap bubbles and oil slicks on water are caused by interference color. This is a phenomenon where colors are produced through the constructive and destructive interference of light waves. This occurs when light is reflected from or transmitted through thin films, layers, or structures with thicknesses comparable to the wavelength of light.
+When light traverses a thin film, there are multiple reflections and transmissions at each boundary, with the total reflection and transmission the sum of each individually transmitted and reflected waves, as shown in the diagram below. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
