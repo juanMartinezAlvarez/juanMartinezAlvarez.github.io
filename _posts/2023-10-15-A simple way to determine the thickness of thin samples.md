@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: A simple way to determine the thickness of thin samples
 date: 2023-10-15 21:01:00
 description: We can exploit optical effects to find the thickness of very thin, transparent samples by simple methods
