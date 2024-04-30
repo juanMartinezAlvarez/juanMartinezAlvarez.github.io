@@ -4,11 +4,16 @@ title: A simple way to determine the thickness of thin samples
 date: 2023-10-15 21:01:00
 description: We can exploit optical effects to find the thickness of very thin, transparent samples by simple methods
 tags: optics
+giscus_comments: true
 categories: papers-post-optics
 thumbnail: assets/img/MRS_crossedPol/Pic1_soap.jpg
+
+bibliography: references1.bib
 ---
 
-The beautiful iridescent colors in soap bubbles and oil slicks on water are caused by interference color. This is a phenomenon where colors are produced through the constructive and destructive interference of light waves. This occurs when light is reflected from or transmitted through thin films, layers, or structures with thicknesses comparable to the wavelength of light.
+
+
+The beautiful iridescent colors in soap bubbles and oil slicks on water are caused by interference color. This is a phenomenon where colors are produced through the constructive and destructive interference of light waves. This occurs when light is reflected from or transmitted through thin films, layers, or structures with thicknesses comparable to the wavelength of light <d-cite key="hecht_optics_2012"></d-cite>.
 
 When light traverses a thin film, there are multiple reflections and transmissions at each boundary, with the total reflection and transmission the sum of each individually transmitted and reflected waves, as shown in the diagram below. 
 
@@ -29,7 +34,7 @@ Each of the waves travels a slightly different path, which results in a phase sh
 
 The interference depends on the path length difference between waves, which is evidently related to the thickness of the film. Therefore, films of the same material but different thicknesses may appear different, for example, one may be blue while the other red. This hints at a very powerful tool for thickness determination by optical methods.
 
-In a spectrum—transmission or reflection squared (T and R) as a function of wavelength—the interference manifests itself as oscillations in the spectra. It is possible to use the period of the oscillations (the distance between consecutive maxima or minima) to find the thickness, provided that the index of refraction is known. See an example of the reflectance spectra for different thicknesses of silicon dioxide films grown over silicon in the next figure. For example, the reflectance of the 50 nm thick sample is mostly flat with a slight increase near the red region, which results in a redish-white or tan color. In contrast, the 500 nm film has a very clear maxima between blue and green, while the other maxima occur near the infrared (IR) and UV, resulting in a blue-green color.
+In a spectrum—transmission or reflection squared (T and R) as a function of wavelength—the interference manifests itself as oscillations in the spectra. It is possible to use the period of the oscillations (the distance between consecutive maxima or minima) to find the thickness, provided that the index of refraction is known <d-cite key="stenzel_thick_2016"></d-cite>. See an example of the reflectance spectra for different thicknesses of silicon dioxide films grown over silicon in the next figure. For example, the reflectance of the 50 nm thick sample is mostly flat with a slight increase near the red region, which results in a redish-white or tan color. In contrast, the 500 nm film has a very clear maxima between blue and green, while the other maxima occur near the infrared (IR) and UV, resulting in a blue-green color.
 
 
 <div class="row mt-3">
@@ -46,13 +51,13 @@ In a spectrum—transmission or reflection squared (T and R) as a function of wa
 
 However, in very transparent samples this technique is difficult to apply when measuring transmission, which is the simpler than reflection due to easier alignment. Transparent samples have very low reflections. This in turn makes the first transmission (t1) dominate the spectra, with the rest of the very small fields introducing small oscillations that are not distinguishable relative to the main transmission. It is like having a very small AC signal superposed to a large DC signal. The lack of observable oscillations prohibits the application of the interference technique for thickness determination. 
 
-In samples that display polarization conversion effects, this difficulty can be circumvented. These rotate the polarization direction of light (the direction of vibration of the electric field). When placing a regular sample between crossed polarizers, which are like gates that allow light to pass trough only in one direction, we would expect the transmission to be null. This is because the first polarizer only allows one direction, let’s say vertical, to pass through, which is unaffected by the regular sample. Then the light is blocked by the second polarizer (also called analyzer) placed in the horizontal direction. See a diagram of the setup in the previous figure.
+In samples that display polarization conversion effects, this difficulty can be circumvented. These rotate the polarization direction of light (the direction of vibration of the electric field) <d-cite key="achouri_fundamental_2021"></d-cite>. When placing a regular sample between crossed polarizers, which are like gates that allow light to pass trough only in one direction, we would expect the transmission to be null. This is because the first polarizer only allows one direction, let’s say vertical, to pass through, which is unaffected by the regular sample. Then the light is blocked by the second polarizer (also called analyzer) placed in the horizontal direction. See a diagram of the setup in the previous figure.
 
 The situation is different in samples that have polarization conversion effects. In this case, light passing through the sample may be rotated, and thus there may be some light that is polarized horizontally even though at first it was vertically polarized. How much is rotated depends, again, on the thickness, and how many passes it does through the samples. It is a compounding effect. We can exploit this to unveil the interference oscillations that were hidden in very transparent samples.
 
 The first transmission (t1), which dominated the spectrum without the polarizers, will only pass through the sample once, while the second (t2) passes three times, the third (t3) five times, etc. Therefore, the first component will be rotated very slightly, and will be suppressed by the second polarizer. This eliminates that large signal, allowing for the observation of the interference oscillation produced by the interaction of the other fields of similar strength.
 
-In our recent paper we exploited the polarization conversion effects on the wings of the Episcada hymenaea translucent butterfly to obtain its thickness. This species, autochthonous to Uruguay and of the same family as the famous Greta oto, is one of the few examples of camouflage by transparency on land, which has motivated the research on its optical properties. You can read more about the implementation of the technique, the theory behind it and the results in our paper here. A PDF is available on the publications tab of this website. See the spectra below. Notice that the crossed polarization setup unveils itnerference oscillations.
+In our recent paper we exploited the polarization conversion effects on the wings of the Episcada hymenaea translucent butterfly <d-cite key="zhang_polarization-sensitive_2014"></d-cite> to obtain its thickness. This species, autochthonous to Uruguay and of the same family as the famous Greta oto, is one of the few examples of camouflage by transparency on land <d-cite key="siddique_role_2015"></d-cite>, which has motivated the research on its optical properties. You can read more about the implementation of the technique, the theory behind it and the results in our paper <a href='https://link.springer.com/article/10.1557/s43580-023-00614-1'>here</a>. A PDF is available on the publications tab of this website. See the spectra below. Notice that the crossed polarization setup unveils itnerference oscillations.
 
 
 <div class="row mt-3">
