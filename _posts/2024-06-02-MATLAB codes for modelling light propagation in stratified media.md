@@ -1,4 +1,4 @@
-s---
+---
 layout: post
 title: MATLAB codes for modelling light propagation in stratified media
 date: 2024-06-02 21:01:00
