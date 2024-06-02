@@ -3,9 +3,9 @@ layout: distill
 title: MATLAB codes for modelling light propagation in stratified media
 date: 2024-06-02 21:01:00
 description: The transfer matrix method is used to calculate the transmission and reflection coefficients of stratified media. I have implemented it on MATLAB, the codes are freely available
-tags: optics
+tags: optics code
 giscus_comments: false
-categories: papers
+categories:
 thumbnail: assets/img/post_MATLABCode_TMM/TMM_thumbnail.jpg
 
 ---
