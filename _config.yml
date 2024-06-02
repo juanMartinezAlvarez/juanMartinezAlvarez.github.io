@@ -283,7 +283,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["optics", "solid state physics", "electronics", "teaching", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["papers"] # these categories will be displayed on the front page of your blog
+display_categories: ["papers","assets","perspective"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
