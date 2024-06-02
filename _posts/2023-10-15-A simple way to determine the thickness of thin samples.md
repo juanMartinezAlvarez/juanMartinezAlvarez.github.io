@@ -4,7 +4,7 @@ title: A simple way to determine the thickness of thin samples
 date: 2023-10-15 21:01:00
 description: We can exploit optical effects to find the thickness of very thin, transparent samples by simple methods
 tags: optics
-giscus_comments: true
+giscus_comments: false
 categories: papers
 thumbnail: assets/img/MRS_crossedPol/Pic1_soap.jpg
 
