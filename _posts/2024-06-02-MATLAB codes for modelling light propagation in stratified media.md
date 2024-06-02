@@ -1,13 +1,11 @@
 ---
-layout: distill
+layout: post
 title: MATLAB codes for modelling light propagation in stratified media
 date: 2024-06-02 21:01:00
-description: The transfer matrix method is used to calculate the transmission and reflection coefficients of stratified media. I have implemented it on MATLAB, the codes are freely available
+description: The transfer matrix method is used to calculate the transmission and reflection coefficients of stratified media. I have implemented it on MATLAB, the codes are freely availabl
 tags: optics code
-giscus_comments: false
-categories:
+categories: 
 thumbnail: assets/img/post_MATLABCode_TMM/TMM_thumbnail.jpg
-
 ---
 
 It is well known that the behavior of a light wave at an interface can be described in terms of the Fresnel coefficients, which give the transmitted and reflected fields in terms of the conditions at the interface. Real materials have at least two boundaries due to their finite thickness, and thus the simplest real case is the freestanding film, discussed in a previous post.
